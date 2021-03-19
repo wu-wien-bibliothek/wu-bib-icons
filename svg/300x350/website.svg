@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="350"
+   id="svg3775"
+   version="1.1"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="website.svg"
+   inkscape:export-filename="C:\Private\gduffner\dev\gitprojekte\wu-bib-icons\png\300x350\website.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <defs
+     id="defs3777" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1809825"
+     inkscape:cx="150"
+     inkscape:cy="192.09563"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     guidecolor="#f5833f"
+     guideopacity="0.49803922"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3783"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="5"
+       spacingy="5"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="0,315"
+       orientation="0,190"
+       id="guide3787" />
+    <sodipodi:guide
+       position="10,350"
+       orientation="190,0"
+       id="guide3791" />
+    <sodipodi:guide
+       position="290,350"
+       orientation="190,0"
+       id="guide3795" />
+    <sodipodi:guide
+       position="0,35"
+       orientation="0,-190"
+       id="guide3799" />
+    <sodipodi:guide
+       position="150,350"
+       orientation="189.80829,0"
+       id="guide5285" />
+    <sodipodi:guide
+       position="0,175"
+       orientation="0,190"
+       id="guide5289" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3780">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-862.36218)">
+    <ellipse
+       cy="1034.8622"
+       cx="150"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#008198;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path5470"
+       rx="127.5"
+       ry="120" />
+    <ellipse
+       ry="117.5"
+       rx="65"
+       cy="1034.8622"
+       cx="150"
+       id="path5486"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:#008198;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008198;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
+       id="rect5488"
+       width="10"
+       height="245"
+       x="145"
+       y="912.36218" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008198;fill-opacity:1;stroke:none;stroke-width:9.99996;marker:none;enable-background:accumulate"
+       id="rect5490"
+       width="205"
+       height="10"
+       x="45"
+       y="962.36218" />
+    <rect
+       y="1097.3622"
+       x="45"
+       height="10"
+       width="205"
+       id="rect5492"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008198;fill-opacity:1;stroke:none;stroke-width:9.99996;marker:none;enable-background:accumulate"
+       inkscape:export-filename="C:\Private\gduffner\dev\gitprojekte\wu-bib-icons\png\leganto_100x160\rect5492.png"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
+       id="rect5496"
+       width="300"
+       height="75"
+       x="0"
+       y="1002.3622" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:102.986px;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1"
+       x="0.019066753"
+       y="1057.3964"
+       id="text5498"
+       transform="scale(0.99048284,1.0096086)"><tspan
+         sodipodi:role="line"
+         id="tspan5500"
+         x="0.019066753"
+         y="1057.3964"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:102.986px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;fill:#808080;stroke-width:1">www</tspan></text>
+  </g>
+</svg>
