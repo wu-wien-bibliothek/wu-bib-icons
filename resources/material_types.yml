@@ -1,0 +1,113 @@
+article:
+    primo:
+        - icon_article.png
+        - icon_Paper.png
+    leganto:
+        - article.png
+audio:
+    primo:
+        - icon_audio.png
+    leganto:
+        - audio.png
+book:
+    primo:
+        - icon_book.png
+    leganto:
+        - book.png
+cd:
+    primo:
+        - icon_opt_speicherplatte.png
+chapter:
+    primo:
+        - icon_kapitel.png
+        - icon_book_chapter.png
+    leganto:
+        - chapter.png
+conference:
+    primo:
+        - icon_conference_proceedings.png
+    leganto:
+        - conference.png
+database:
+    primo:
+        - icon_database.png
+    leganto:
+        - database.png
+image:
+    primo:
+        - icon_image.png
+    leganto:
+        - image.png
+journal:
+    primo:
+        - icon_journal.png
+    leganto:
+        - journal.png
+looseleaf:
+    primo:
+        - icon_loseblatt.png
+map:
+    primo:
+        - icon_map.png
+mbw:
+    primo:
+        - icon_mbw.png
+music:
+    primo:
+        - icon_score.png
+newspaper:
+    primo:
+        - icon_newspaper_article.png
+        - icon_newspaper.png
+    leganto:
+        - newspaper.png
+other:
+    primo:
+        - icon_electr_resource.png
+        - icon_other.png
+        - icon_government_document.png
+    leganto:
+        - other.png
+patent:
+    primo:
+        - icon_patent.png
+research_data:
+    primo:
+        - icon_research_data.png
+        - icon_dataset.png
+        - icon_market_research.png
+    leganto:
+        - research_data.png
+serials:
+    primo:
+        - icon_schriftenreihe.png
+        - icon_serials.png
+text_resource:
+    primo:
+        - icon_text_resource.png
+        - icon_reference_entry.png
+        - icon_report.png
+        - icon_review.png
+        - icon_archival_material_manuscript.png
+    leganto:
+        - text_resource.png
+thesis:
+    primo:
+        - icon_dissertations.png
+    leganto:
+        - thesis.png
+versions:
+    primo:
+        - icon_versions.png
+video:
+    primo:
+        - icon_video.png
+        - icon_media.png
+    leganto:
+        - video.png
+website:
+    primo:
+        - icon_web_resource.png
+    leganto:
+        - website.png
+
