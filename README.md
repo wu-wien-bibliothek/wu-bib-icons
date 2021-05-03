@@ -16,10 +16,10 @@ Which files to generate from which source file is mapped in `resources/material_
 
 Four different colours are in use:
 
-- Background: `#ffffff` (white)
-- Main colour 1: `#008198` (blueish)
-- Main colour 2: `#808080` (gray)
-- Special colour: `#d42066` (pink)
+- Background: ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) `#ffffff` (white)
+- Main colour 1: ![#008198](https://via.placeholder.com/15/008198/000000?text=+) `#008198` (blueish)
+- Main colour 2: ![#808080](https://via.placeholder.com/15/808080/000000?text=+) `#808080` (gray)
+- Special colour: ![#d42066](https://via.placeholder.com/15/d42066/000000?text=+) `#d42066` (pink)
 
 The colors need to be changed in the svg files before generating the png files.
 
