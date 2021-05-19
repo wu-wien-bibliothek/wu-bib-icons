@@ -3,9 +3,9 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Icons for library systems used by WU Vienna.  
-Creator: Georg Mayr-Duffner
+Creator: [Georg Mayr-Duffner](https://github.com/georgd)
 
-Currently covers item types as used in Primo and Leganto.
+Currently covers resource types as used in Primo and Leganto.
 
 ## Generating the png Files
 
