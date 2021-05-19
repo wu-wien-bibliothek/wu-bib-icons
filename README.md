@@ -3,7 +3,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Icons for library systems used by WU Vienna.  
-Author: Georg Mayr-Duffner
+Creator: Georg Mayr-Duffner
 
 Currently covers item types as used in Primo and Leganto.
 
