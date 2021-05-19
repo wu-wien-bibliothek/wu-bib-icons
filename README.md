@@ -2,7 +2,8 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Icons for library systems used by WU Vienna.
+Icons for library systems used by WU Vienna.  
+Author: Georg Mayr-Duffner
 
 Currently covers item types as used in Primo and Leganto.
 
@@ -21,17 +22,17 @@ Four different colours are in use:
 - Main colour 2: ![#808080](https://via.placeholder.com/15/808080/000000?text=+) `#808080` (gray)
 - Special colour: ![#d42066](https://via.placeholder.com/15/d42066/000000?text=+) `#d42066` (pink)
 
-The colors need to be changed in the svg files before generating the png files.
+The colours need to be changed in the svg files before generating the png files.
 
 - In Notepad++: go to `Edit > Find in Files`, and under `Directory`, choose the `svg\300x350` directory. Use the `Replace in Files` button to replace the value entered in the `Find what` field by the value entered in `Replace with`. 
-- Using sed (GNU/Linux): `sed -i -e 's/#008198/#9f0000/g' *.svg` or `sed -i -e 's/#008198/#9f0000/g' *.svg`
+- Using sed (GNU/Linux): `sed -i -e 's/#008198/#9f0000/g' *.svg` or `sed -i -e 's/#008198/#9f0000/g' -e 's/#d42066/#c4d913/g' *.svg` to replace multiple colours at once.
 - Using sed (Mac OS): `sed -i '' -e 's/#008198/#9f0000/g' *.svg`
 
 ## Todo’s
 
 - Add more options to the script:
   - to generate only a single icon;
-  - to exchange colors;
+  - to exchange colours;
 - Clean up the script.
 - Add icons for some more types.
 
