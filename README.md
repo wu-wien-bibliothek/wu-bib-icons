@@ -2,7 +2,7 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Icons for library systems used by WU Vienna.  
+Icons for library systems used by WU Vienna Univerity of Economics and Business.  
 Creator: [Georg Mayr-Duffner](https://github.com/georgd)
 
 Currently covers resource types as used in Primo and Leganto.
