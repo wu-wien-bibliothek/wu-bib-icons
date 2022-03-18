@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="350"
+   id="svg3775"
+   version="1.1"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ejournal_2.svg"
+   inkscape:export-filename="C:\Private\gduffner\dev\gitprojekte\wu-bib-icons\png\300x350\journal.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <defs
+     id="defs3777" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.66"
+     inkscape:cx="150"
+     inkscape:cy="189.05075"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     guidecolor="#f5833f"
+     guideopacity="0.49803922"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3783"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="5"
+       spacingy="5"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="0,315"
+       orientation="0,190"
+       id="guide3787" />
+    <sodipodi:guide
+       position="10,190"
+       orientation="190,0"
+       id="guide3791" />
+    <sodipodi:guide
+       position="290,350"
+       orientation="190,0"
+       id="guide3795" />
+    <sodipodi:guide
+       position="0,35"
+       orientation="0,-190"
+       id="guide3799" />
+    <sodipodi:guide
+       position="150,350"
+       orientation="189.80829,0"
+       id="guide5285" />
+    <sodipodi:guide
+       position="0,175"
+       orientation="0,190"
+       id="guide5289" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3780">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-862.36218)">
+    <g
+       id="g7745">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008198;fill-opacity:1;stroke:none;stroke-width:10;marker:none;enable-background:accumulate"
+         d="m 100.93137,927.36218 -90.9313702,5e-5 2e-7,214.99997 c 0,0 94.97745,0.4126 95,0 25,0 35,5 35,15 h 10 V 952.0681 c 0,-13.64468 -21.96877,-24.70588 -49.06863,-24.70588 z"
+         id="rect2989"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccscc" />
+      <path
+         sodipodi:nodetypes="cccccscc"
+         inkscape:connector-curvature="0"
+         id="path3769"
+         d="m 25,942.36214 v 185.00006 c 0,0 79.97593,0.4175 80,0 25,0 40,5 40,14.9999 v 0 -174.99996 c 0,-13.80711 -11.07079,-24.99996 -40,-24.99996 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="rect4570"
+         width="85"
+         height="15.000004"
+         x="45"
+         y="972.36218" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 45.000001,1042.3622 v 7.5 7.5 H 130 v -7.5 -7.5 z"
+         id="rect4578"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="1077.3622"
+         x="45"
+         height="15.000004"
+         width="85"
+         id="rect4602"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3826"
+         d="m 45.000001,1007.3622 v 7.5 7.5 H 130 v -7.5 -7.5 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    </g>
+    <g
+       id="g7745-9"
+       transform="matrix(-1,0,0,1,300,-2e-5)">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008198;fill-opacity:1;stroke:none;stroke-width:10;marker:none;enable-background:accumulate"
+         d="m 100.93137,927.36218 -90.9313702,5e-5 2e-7,214.99997 c 0,0 94.97745,0.4126 95,0 25,0 35,5 35,15 h 10 V 952.0681 c 0,-13.64468 -21.96877,-24.70588 -49.06863,-24.70588 z"
+         id="rect2989-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccscc" />
+      <path
+         sodipodi:nodetypes="cccccscc"
+         inkscape:connector-curvature="0"
+         id="path3769-8"
+         d="m 25,942.36214 v 185.00006 c 0,0 79.97593,0.4175 80,0 25,0 40,5 40,14.9999 v 0 -174.99996 c 0,-13.80711 -11.07079,-24.99996 -40,-24.99996 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="rect4570-0"
+         width="85"
+         height="15.000004"
+         x="45"
+         y="972.36218" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 45.000001,1042.3622 v 7.5 7.5 H 130 v -7.5 -7.5 z"
+         id="rect4578-7"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="1077.3622"
+         x="45"
+         height="15.000004"
+         width="85"
+         id="rect4602-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3826-9"
+         d="m 45.000001,1007.3622 v 7.5 7.5 H 130 v -7.5 -7.5 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    </g>
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.999996;stroke-linejoin:round"
+       id="path1472"
+       cx="45"
+       cy="1117.3622"
+       r="45" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d42066;fill-opacity:1;stroke:none"
+       x="16.832001"
+       y="1144.7782"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="16.832001"
+         y="1144.7782"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d42066;fill-opacity:1">e</tspan></text>
+  </g>
+</svg>
