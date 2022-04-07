@@ -32,7 +32,7 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1147"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,16 +152,14 @@
        cx="75"
        cy="957.36218"
        r="45" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d42066;fill-opacity:1;stroke:none"
-       x="46.832001"
-       y="984.7782"
-       id="text877"><tspan
-         sodipodi:role="line"
-         id="tspan875"
-         x="46.832001"
-         y="984.7782"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d42066;fill-opacity:1">e</tspan></text>
+    <g
+       aria-label="e"
+       id="text877"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d42066;fill-opacity:1;stroke:none">
+      <path
+         d="m 96.368001,946.0902 q 0,9.696 -9.024,14.208 -8.928,4.416 -23.712,5.856 0.48,9.888 9.504,9.888 3.36,0 6.432,-1.152 3.072,-1.152 6.72,-3.552 l 4.992,8.256 q -9.312,6.72 -19.776,6.72 -10.464,0 -16.032,-5.664 -5.472,-5.76 -5.472,-15.648 0,-7.68 2.88,-15.168 2.88,-7.488 9.216,-12.48 6.336,-4.992 16.128,-4.992 8.64,0 13.344,3.936 4.8,3.84 4.8,9.792 z m -32.064,11.424 q 9.504,-0.768 13.92,-3.552 4.512,-2.88 4.512,-7.296 0,-2.016 -1.344,-3.456 -1.248,-1.44 -4.128,-1.44 -5.472,0 -8.64,4.512 -3.168,4.512 -4.32,11.232 z"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d42066;fill-opacity:1"
+         id="path847" />
+    </g>
   </g>
 </svg>
